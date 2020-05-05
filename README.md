@@ -2,3 +2,8 @@
 
 
 [go test -v  csv_test.go csv.go](https://www.cnblogs.com/Detector/p/10010292.html) 
+
+## go module
+
+* go mod init  `文件名`
+* go  mod  tidy  ``
